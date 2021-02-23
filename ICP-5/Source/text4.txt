@@ -1,0 +1,1 @@
+﻿Macs and viruses aren’t all that common, but the one that was recently discovered by researchers is even less so. Security researcher Red Canary has published information about a new “activity cluster” that has infected 29,139 Macs across more than 150 countries but is missing one key ingredient: a reason to be.
